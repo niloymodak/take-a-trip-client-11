@@ -1,0 +1,152 @@
+[
+    {
+        "service_id": "04",
+        "title": "Falls-Niagara",
+        "img": "https://i.ibb.co/6sjbhrG/Falls-Niagara.jpg",
+        "price": "20.00",
+        "description": "Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.[2] The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "05",
+        "title": "Las-Vegas",
+        "img": "https://i.ibb.co/99xf4rS/Las-Vegas.jpg",
+        "price": "20.00",
+        "description": "Las Vegas; Spanish for The Meadows), often known simply as Vegas, is the 25th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert.[6] Las Vegas is an internationally renowned major resort city, known primarily for its gambling, shopping, fine dining, entertainment, and nightlife. The Las Vegas Valley as a whole serves as the leading financial, commercial, and cultural center for Nevada.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "01",
+        "title": "Hyams-Beach",
+        "img": "https://i.ibb.co/Qnk7MCp/Hyams-Beach.jpg",
+        "price": "200.00",
+        "description": "Hyams Beach is a seaside village in the City of Shoalhaven, New South Wales, Australia, on the shores of Jervis Bay.[2] At the 2016 census, it had a population of 112.[1] The village, 180 km south of Sydney, is bordered by two beaches, Chinaman's Beach to the north and Seaman's Beach (sometimes referred to as Sailors Beach) to the south, with Hyams Beach being in the centre. A seaside resort, its beach is known for having turquoise/aqua-coloured waters and fine, squeaky, brilliantly white sand composed of pure quartz.[3]",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "02",
+        "title": "Sundarban",
+        "img": "https://i.ibb.co/PYXxx7q/Sundarban.jpg",
+        "price": "150.00",
+        "description": "Sundarbans  is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels. Sundarbans is home to the world's largest area of mangrove forests.[3] Four protected areas in the Sundarbans are enlisted as UNESCO World Heritage Sites, viz. Sundarbans West (Bangladesh), Sundarbans South (Bangladesh), Sundarbans East (Bangladesh) and Sundarbans National Park (India).[4]",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "03",
+        "title": "Taj-Mahal",
+        "img": "https://i.ibb.co/Y8f0yMd/Taj-Mahal.jpg",
+        "price": "30.00",
+        "description": "The Taj Mahal,[4][5][6] is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan (r. 1628–1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "06",
+        "title": "Stonehenge",
+        "img": "https://i.ibb.co/G3qQGK0/Stonehenge.jpg",
+        "price": "20.00",
+        "description": "Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons, two bulkier vertical sarsens joined by one lintel. The whole monument, now ruinous, is aligned towards the sunrise on the summer solstice. The stones are set within earthworks in the middle of the densest complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli (burial mounds).[2]",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    }
+]
