@@ -1,8 +1,12 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const AboutUs = () => {
     return (
         <div className="hero my-20">
+            <Helmet>
+                <title>Take A Trip - About Us</title>
+            </Helmet>
             <div className="hero-content flex-col lg:flex-row">
                 <div className='w-1/2'>
                     <p className="text-2xl font-bold text-orange-600">About Us</p>

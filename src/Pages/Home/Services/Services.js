@@ -1,6 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
+// import { Helmet } from 'react-helmet';
 import ServiceCard from './ServiceCard';
 
 const Services = () => {
@@ -12,6 +13,9 @@ const Services = () => {
     }, [])
     return (
         <div>
+            {/* <Helmet>
+                <title>Take A Trip - Services</title>
+            </Helmet> */}
             <div className='text-center mb-4'>
                 <p className="text-2xl font-bold text-orange-600">Services</p>
                 <h2 className="text-5xl font-semibold">Our Service Area</h2>
