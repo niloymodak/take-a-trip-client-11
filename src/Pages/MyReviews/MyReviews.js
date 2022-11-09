@@ -69,17 +69,17 @@ const MyReviews = () => {
 
     return (
         <div>
-            <h2 className="text-5xl">Total Review: {reviews.length}</h2>
+            <h2 className="text-5xl mb-5">Total Review: {reviews.length}</h2>
             <div className="overflow-x-auto w-full">
                 <table className="table w-full">
                     <thead>
                         <tr>
-                            <th>
-                            </th>
+                            <th></th>
                             <th>Name</th>
                             <th>Job</th>
                             <th>Review</th>
                             <th>Status</th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>

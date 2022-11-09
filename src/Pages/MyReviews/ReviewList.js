@@ -15,7 +15,7 @@ const ReviewList = ({ review, handleDelete, handleStatusUpdate }) => {
         <tr>
             <th>
                 <label>
-                    <button onClick={() => handleDelete(_id)} className='btn btn-ghost'>X</button>
+                    <button className='btn btn-ghost'>Edit</button>
                 </label>
             </th>
             <td>
@@ -43,6 +43,11 @@ const ReviewList = ({ review, handleDelete, handleStatusUpdate }) => {
                 <button
                     onClick={() => handleStatusUpdate(_id)}
                     className="btn btn-ghost btn-xs">{status ? status : 'pending'}</button>
+            </th>
+            <th>
+                <label>
+                    <button onClick={() => handleDelete(_id)} className='btn btn-ghost'>X</button>
+                </label>
             </th>
         </tr>
     );
