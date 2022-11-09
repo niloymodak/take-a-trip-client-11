@@ -1,7 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import { Link } from 'react-router-dom';
-import AddService from '../../AddService/AddService';
 import About from '../About/About';
 import Airlines from '../Airlines/Airlines';
 import AppDownload from '../AppDownload/AppDownload';
@@ -25,7 +24,6 @@ const Home = () => {
                 <Link className='flex justify-center' to={'/services'}><button className="btn btn-primary mb-3 mt-3 ">See All</button></Link>
                 <Airlines></Airlines>
                 <AppDownload></AppDownload>
-                <AddService></AddService>
             </div>
         </div>
     );

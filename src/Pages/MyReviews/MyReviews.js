@@ -76,7 +76,7 @@ const MyReviews = () => {
                         <tr>
                             <th></th>
                             <th>Name</th>
-                            <th>Job</th>
+                            <th>Place</th>
                             <th>Review</th>
                             <th>Status</th>
                             <th></th>
