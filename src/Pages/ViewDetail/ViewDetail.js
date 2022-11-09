@@ -58,7 +58,7 @@ const ViewDetail = () => {
             </div>
             <div>
                 <div>
-                    <h1>Public</h1>
+                    <h1>Public Review</h1>
                 </div>
                 <form onSubmit={handlePlaceReview}>
                     <h2 className="text-4xl">Add Your Review: {title}</h2>
