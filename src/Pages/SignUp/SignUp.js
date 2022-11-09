@@ -1,8 +1,10 @@
 import React from 'react';
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { setAuthToken } from '../../api/auth';
 import img from '../../assets/images/login/login.svg';
 import { AuthContext } from '../../contexts/AuthProvider/AuthProvider';
+import SocialLogin from '../Shared/SocialLogin/SocialLogin';
 
 const SignUp = () => {
     const { createUser } = useContext(AuthContext);
@@ -16,6 +18,7 @@ const SignUp = () => {
             .then(result => {
                 const user = result.user;
                 console.log(user);
+                setAuthToken(user)
             })
             .catch(err => console.error(err));
     }
@@ -52,6 +55,7 @@ const SignUp = () => {
                         </div>
                     </form>
                     <p className='text-center'>Already have an account? <Link className='text-orange-600 font-bold' to="/login">Login</Link> </p>
+                    <SocialLogin></SocialLogin>
                 </div>
             </div>
         </div>

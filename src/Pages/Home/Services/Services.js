@@ -15,7 +15,8 @@ const Services = () => {
             <div className='text-center mb-4'>
                 <p className="text-2xl font-bold text-orange-600">Services</p>
                 <h2 className="text-5xl font-semibold">Our Service Area</h2>
-                <p>the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+                <br />
+                <p> We ensure that your traveling is filled with joy, excitement, pleasure, and satisfaction, which you won’t get from anywhere else, and we are keeping it cost effective for you. We are linked up with the best hotels, airlines and food restaurants so that your luxury is guaranteed. We just make sure that you have a quality time on your tour and ensure that you have the best experience when you travel with your loved ones. We can guarantee you that our services will make you come to us more and more for your traveling. </p>
             </div>
             <div className='grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
                 {
