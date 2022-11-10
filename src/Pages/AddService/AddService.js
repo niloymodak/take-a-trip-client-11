@@ -3,6 +3,24 @@ import React from 'react';
 
 const AddService = () => {
 
+    // const service = {
+    //     imageURL: ' ',
+    //     placeName: ' ',
+    //     price: ' ',
+    //     description: ' ',
+    // }
+
+    // fetch('http://localhost:5000/newservice', {
+    //     method: 'POST',
+    //     headers: {
+    //         'content-type': 'application/json',
+    //     },
+    //     body: JSON.stringify(service),
+    // })
+    //     .then(res => res.json())
+    //     .then(data => console.log(data))
+    //     .catch(er => console.error(er));
+
     return (
         <div>
             {/* <Helmet>
