@@ -10,7 +10,7 @@ const AddService = () => {
     //     description: ' ',
     // }
 
-    // fetch('http://localhost:5000/newservice', {
+    // fetch('https://online-service-review-server.vercel.app/newservice', {
     //     method: 'POST',
     //     headers: {
     //         'content-type': 'application/json',

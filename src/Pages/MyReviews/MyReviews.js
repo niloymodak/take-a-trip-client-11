@@ -7,7 +7,7 @@ const MyReviews = () => {
     const [reviews, setReviews] = useState([])
 
     useEffect(() => {
-        fetch(`http://localhost:5000/reviews?email=${user?.email}`, {
+        fetch(`https://online-service-review-server.vercel.app/reviews?email=${user?.email}`, {
             headers: {
                 authorization: `Bearer ${localStorage.getItem('online-token')}`
             }
@@ -26,7 +26,7 @@ const MyReviews = () => {
     const handleDelete = id => {
         const proceed = window.confirm('Are you sure, you want to cancel this order');
         if (proceed) {
-            fetch(`http://localhost:5000/reviews/${id}`, {
+            fetch(`https://online-service-review-server.vercel.app/reviews/${id}`, {
                 method: 'DELETE',
                 headers: {
                     authorization: `Bearer ${localStorage.getItem('online-token')}`
@@ -45,7 +45,7 @@ const MyReviews = () => {
     }
 
     const handleStatusUpdate = id => {
-        fetch(`http://localhost:5000/reviews/${id}`, {
+        fetch(`https://online-service-review-server.vercel.app/reviews/${id}`, {
             method: 'PATCH',
             headers: {
                 'content-type': 'application/json',
