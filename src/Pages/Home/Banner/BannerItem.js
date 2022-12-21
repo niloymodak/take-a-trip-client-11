@@ -16,8 +16,8 @@ const BannerItem = ({ slide }) => {
                 </h1>
                 <br />
             </div>
-            <div className="absolute flex justify-end transform -translate-y-1/2 w-2/5 left-24 top-1/2">
-                <p className='text-xl text-white'>Being the best will only turn to reality with the feedback and reviews of our beloved customers and it ensures that we are always concerned about our services. That is why we only provide you the best services. Your money can buy and ensure your satisfaction. Your smile means the world to us. I know it is hard to believe all these. Just try us and enjoy yourself. </p>
+            <div className="absolute flex justify-end transform-translate-y-1/2 w-2/5 left-24 top-1/2">
+                <p className='text-xl text-white'>Being the best will only turn to reality with the feedback and reviews of our beloved customers and it ensures that we are always concerned about our services.</p>
             </div>
             {/* <div className="absolute flex justify-start transform -translate-y-1/2 w-2/5 left-24 top-3/4">
                 <button className="btn btn-warning mr-5">Warning</button>

@@ -6,7 +6,7 @@ import { PhotoProvider, PhotoView } from 'react-photo-view';
 const ServiceCard = ({ service }) => {
     const { _id, img, price, title, description } = service;
     return (
-        <div className="card card-compact w-96 bg-base-100 shadow-xl ml-3">
+        <div className="card card-compact w-96 bg-base-100 shadow-xl ml-3 sm:m-auto">
             <PhotoProvider>
                 <PhotoView src={img}>
                     <img src={img} style={{ objectFit: 'cover' }} alt="" />
